@@ -65,6 +65,18 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
+"@clerk/clerk-react@^1.21.2":
+  version "1.21.2"
+  resolved "https://registry.yarnpkg.com/@clerk/clerk-react/-/clerk-react-1.21.2.tgz#7376f52ec1c9e989c407cea6b76a75437fd77df5"
+  integrity sha512-aziV1B6dwJNZr1oS92siJTIPBZkmNMxsDzmj8BwRc6sYUPVV1YnvriuLn1zZNjJjq8h6e7xwlsjAl7AQ+LL3Zw==
+  dependencies:
+    "@clerk/types" "1.13.1"
+
+"@clerk/types@1.13.1":
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/@clerk/types/-/types-1.13.1.tgz#003fe0c0eae6443d38d049d38d1b1340f5f42357"
+  integrity sha512-hjkD7DouHZGVQGMPwRA4DJhqyL3vUYEnVB933HghtCGpxr7M+i9hemAP04WAuxj3hHNcRvXS7bpWC5jCrQzzSg==
+
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.4.3.tgz#9e42981ef035beb3dd49add17acb96e8ff6f394c"
